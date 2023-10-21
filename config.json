@@ -1,0 +1,7 @@
+{
+    "format_type": "cuty",
+    "bot": {
+        "token": "DISCORD_TOKEN_HERE",
+        "channel_id": 1132332186385789028
+    }
+}
